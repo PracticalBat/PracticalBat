@@ -1,10 +1,8 @@
-# README.md
+# Hoi
+![Header image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Big-eared-townsend-fledermaus.jpg/250px-Big-eared-townsend-fledermaus.jpg)
+# I'm @PracticalBat :3
 
-# Hoi, I'm @PracticalBat 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PracticalBat&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
 
 ## 🦇 About Me 🦇
 - 💻🎨 Hobbyist programmer passionate about creativity
@@ -15,5 +13,5 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PracticalBat&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PracticalBat&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
