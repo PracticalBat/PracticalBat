@@ -5,7 +5,7 @@
 
 
 ## 🦇 About Me 🦇
-- 💻🎨 Hobbyist programmer passionate about creativity
+- 💻🎨 Hobbyist programmer and artist
 - 🌱 Currently working on various small projects in the Godot game Engine
 - 🦇 Bat Online
 
